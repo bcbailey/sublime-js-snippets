@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+switch (${1:expression}) {
+	case '${3:case}':
+		${0:// code}
+		break;
+
+	default:
+		${2:// code}
+}
+]]></content>
+	<tabTrigger>sw</tabTrigger>
+	<scope>source.js</scope>
+	<description>Switch block</description>
+</snippet>

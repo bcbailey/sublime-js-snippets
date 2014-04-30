@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+else {
+	${0:$SELECTION}
+}
+]]></content>
+	<tabTrigger>else</tabTrigger>
+	<scope>source.js</scope>
+	<description>Else block</description>
+</snippet>

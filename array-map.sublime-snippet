@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:array} = ${2:$1}.map(function(${3:v, idx}) {
+	${0:// code}
+});
+]]></content>
+	<tabTrigger>map</tabTrigger>
+	<scope>source.js</scope>
+	<description>Array map</description>
+</snippet>

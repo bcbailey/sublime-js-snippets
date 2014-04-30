@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:name}: ${2:'value'},
+]]></content>
+  <tabTrigger>p:</tabTrigger>
+  <scope>source.js, source.json</scope>
+  <description>Object property assignment</description>
+</snippet>

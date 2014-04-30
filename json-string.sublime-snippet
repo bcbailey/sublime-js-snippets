@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+JSON.stringify(${1:obj})
+]]></content>
+  <tabTrigger>jsons</tabTrigger>
+  <scope>source.js</scope>
+  <description>JSON serializer</description>
+</snippet>

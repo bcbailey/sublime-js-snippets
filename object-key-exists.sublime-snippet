@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:key} in ${2:obj}
+]]></content>
+  <tabTrigger>exists</tabTrigger>
+  <scope>source.js</scope>
+  <description>Object key existance check</description>
+</snippet>

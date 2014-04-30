@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${3:id} = setInterval(function() {
+	${0:$SELECTION}
+}, ${1:0});
+]]></content>
+	<tabTrigger>interval</tabTrigger>
+	<scope>source.js</scope>
+	<description>setInterval expression</description>
+</snippet>

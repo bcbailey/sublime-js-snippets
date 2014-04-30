@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:document}.getElement${2/(T)|.*/(?1:s)/}By${2:T}${2/(T)|(I)|.*/(?1:agName)(?2:d)/}('$3')
+]]></content>
+  <tabTrigger>get</tabTrigger>
+  <scope>source.js</scope>
+  <description>DOM get elements by id or tag</description>
+</snippet>

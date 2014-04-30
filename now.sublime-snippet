@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+new Date(${0})
+]]></content>
+  <tabTrigger>now</tabTrigger>
+  <scope>source.js</scope>
+  <description>The current date and time</description>
+</snippet>

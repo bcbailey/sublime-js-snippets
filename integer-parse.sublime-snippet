@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+parseInt(${1:value}, ${2:10})
+]]></content>
+  <tabTrigger>int</tabTrigger>
+  <scope>source.js</scope>
+  <description>Parse integer</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:obj} = {
+	${0}
+};
+]]></content>
+	<tabTrigger>obj</tabTrigger>
+	<scope>source.js, source.json</scope>
+	<description>Object literal</description>
+</snippet>

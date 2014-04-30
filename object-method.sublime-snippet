@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:name}: function(${2}) {
+	${0:// code}
+},
+]]></content>
+	<tabTrigger>f:</tabTrigger>
+	<scope>source.js</scope>
+	<description>Object method (function)</description>
+</snippet>

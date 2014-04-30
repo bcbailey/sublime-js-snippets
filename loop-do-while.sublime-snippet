@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+do {
+	${0:// code}
+} while (${1:true});
+]]></content>
+	<tabTrigger>do</tabTrigger>
+	<scope>source.js</scope>
+	<description>Do while loop</description>
+</snippet>

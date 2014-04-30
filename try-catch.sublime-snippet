@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+try {
+	${1:$SELECTION}
+}
+catch(${3:e}) { ${2} }
+]]></content>
+	<tabTrigger>try</tabTrigger>
+	<scope>source.js</scope>
+	<description>Try catch block</description>
+</snippet>
+	asdasd

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+case '${1:case}':
+	${0:// code}
+	break;
+]]></content>
+	<tabTrigger>case</tabTrigger>
+	<scope>source.js</scope>
+	<description>Switch case statement</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+else if (${1:true}) {
+	${0:$SELECTION}
+}
+]]></content>
+	<tabTrigger>elif</tabTrigger>
+	<scope>source.js</scope>
+	<description>Else if block</description>
+</snippet>
